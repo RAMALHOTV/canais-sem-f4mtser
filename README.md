@@ -4,7 +4,7 @@
 <link>http://ignorame</link>
 <thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
-<externallink>https://pastebin.com/raw/hWeggt1k</externallink>
+<externallink>https://pastebin.com/raw/ey6d6SWX</externallink>
 </item>
  
 <item>
